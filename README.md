@@ -1,29 +1,5 @@
-# eclipse-jemo-monitor-ui
+# [DEPRECATED] eclipse-jemo-monitor-ui
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This repository is deprecated. 
+Its code has been moved to the official eclipse github repository and is part 
+of the [jemo/admin-ui](https://github.com/eclipse/jemo/tree/master/admin-ui).
